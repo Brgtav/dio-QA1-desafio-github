@@ -1,0 +1,14 @@
+resumo do Git e GitHub
+
+Git
+- Git é um sistema de controle de versão distribuído, criado por Linus Torvalds, que permite a vários desenvolvedores trabalharem no mesmo projeto simultaneamente. 
+- Armazena o histórico de versões do código e permite que você navegue e recupere versões antigas do seu código.
+- Branches Uma das funcionalidades mais poderosas, que permite que você crie ramos do seu projeto, permitindo a experimentação e desenvolvimento de funcionalidades sem interferir no código principal.
+
+GitHub
+- GitHub é uma plataforma de hospedagem de repositórios Git, que adiciona funcionalidades colaborativas e sociais ao Git.
+- Você pode criar e manter repositórios de código, colaborar com outros desenvolvedores e usar pull requests para revisar e integrar mudanças.
+- Oferece GitHub Actions para integração contínua e entrega contínua (CICD), e muitas outras ferramentas para gerenciar projetos, como issues (para rastrear bugs e tarefas), wikis, e muito mais.
+
+Em resumo, Git é a ferramenta que você usa para versionar seu código, enquanto GitHub é a plataforma onde você hospeda esse código e colabora com outros desenvolvedores.
+
